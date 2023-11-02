@@ -291,6 +291,7 @@
 @media (max-width: 786px) {
     .body{
         width: 376px;
+        overflow-x: hidden;
     }
 
 
